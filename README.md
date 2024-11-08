@@ -108,9 +108,9 @@ NumberBaseball/
   - Membership check (`contains()`): **Array** is O(n), **Set** is O(1).  
 - The data structure is selected based on the specific operation's efficiency.  
 
-#### ⚖️ **Time Complexity: GameJudge - Scoring Method**  
+#### ⚖️ **GameJudge - Scoring Method**  
 - Explored various methods for scoring, including string, array, and mathematical approaches.  
-- Ultimately, a **mathematical approach** using integers was chosen for a balance between memory efficiency and complexity.  
+- Ultimately, an **array-based approach** was chosen for a balance between memory efficiency and complexity.
 
 #### 🚦 **Effective Exception Handling**  
 - Utilized **HelpPrompt** to provide concise, clear responses to invalid inputs.  
