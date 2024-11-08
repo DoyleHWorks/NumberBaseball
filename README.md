@@ -80,9 +80,10 @@ NumberBaseball/
   
 #### 🔚 **Program Exit**  
 - In the main menu, selecting **Exit** invokes the **ExitPrompt**.  
-  - "Y": Closes the program.  
+  - "Y": Closes the program. 
   - "N": Returns to the main menu.
-
+- Before confirming, the program displays how many game records will be deleted upon exiting.
+  
 #### 💾 **Future Feature: Player Database**  
 - Planned to extend `Player` class to store data persistently, allowing for detailed performance analysis and leaderboards.
 - The initializer includes a setup for storing game records and tracking game progress.  
