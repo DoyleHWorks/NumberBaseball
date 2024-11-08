@@ -39,7 +39,7 @@ NumberBaseball/
 ```
 
 ## 🖥️ Core Workflow Diagram  
-![image](https://github.com/user-attachments/assets/5c5fc8ac-6df9-48ad-8d67-c75eb06a38fb)
+![image](https://github.com/user-attachments/assets/a44b0ca2-523d-4bbf-90fc-890c5614e8c1)
 
 ## 🏗️ **Design and Implementation Insights**  
 
